@@ -4,8 +4,7 @@ Alex Róbertsson, Dagur Hafsteinsson &amp; Eva Rut Tryggvadóttir
 Í verkefninu á að byggja vélmenni og kóða hreyfingu fyrir það. Þemað er Halloween. Okkur datt í hug að stríða aðeins vini okkar, sem er í öðrum hóp, með vélmenninu.  Vélmennið á sem sagt að byrja á því að dansa þegar þú kemur inn á ákveðin radíus sem og kveikja á LED perum í augunum. Dansinn er í raun bara búkurinn að hreyfast aðeins til hliðana og hendurnar dragast með. Einnig byrjar hljóð að spilast sem hvetur einstaklinginn til að koma nær.  Þegar persónan er komin í færi er skynjari sem kveikir á seinni kóðanum. Þá byrjar vélmennið að snúast hratt í hringi sem gerir það að verkum að hendurnar skjótast út og slær fórnarlambið.  
 Loka niðurstaðan var hins vegar ekki sú sem við vonuðumst eftir. Við lentum í mörgum hnökrum en loka hnökrinn sem varð verkefninu að falli var víraflækja í höfuðkúpunni. 
 
-<img src="https://github.com/TskoliV5/V23_S2_Dansari/blob/main/dansari.jpeg
-" width="50%" height="50%">
+<img src="https://github.com/TskoliV5/V23_S2_Dansari/blob/main/dansari.jpg" width="50%" height="50%">
 
 ---
 
